@@ -26,7 +26,7 @@ Moreover, as humans behing, I think it's important to be <strong>united, transpa
    
    <div align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wecks" height=150px>
-<img src="https://github-readme-stats.vercel.app/api?username=Wecks&title_color=FFA500" height=150px>
+<img src="https://github-readme-stats.vercel.app/api?username=Wecks&title_color=ef9a00" height=150px>
 </div>
 
 
