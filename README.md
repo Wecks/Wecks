@@ -8,10 +8,11 @@ Hi, I'm <strong>[Wecks](https://github.com/Wecks)</strong> or <strong>Alexis Lem
   
 Currently as an unofficial research engineer in Blockchain & IoT at CEA Paris-Saclay, I'm working on improving my skills mainly in the <strong>Javascript</strong> universe and in <strong>Solidity</strong>.
 <br>
-As humans behing, I think it's important to be <strong>united, transparent</strong> and <strong>sober</strong> in this crazy world... Because this world needs help, because we need help. 
+Moreover, as humans behing, I think it's important to be <strong>united, transparent</strong> and <strong>sober</strong> in this crazy world... Because this world needs help, because we need help. 
 
 <div align = "center">
   <h3>🌍🌡️🩸🩹🙏</h3>
+  <br>
   <div>
     <a href="https://www.linkedin.com/in/alexislemairevolpe/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,7 +26,7 @@ As humans behing, I think it's important to be <strong>united, transparent</stro
    
    <div align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wecks" height=150px>
-<img src="https://github-readme-stats.vercel.app/api?username=Wecks" height=150px>
+<img src="https://github-readme-stats.vercel.app/api?username=Wecks&title_color=FFA500" height=150px>
 </div>
 
 
@@ -53,6 +54,5 @@ As humans behing, I think it's important to be <strong>united, transparent</stro
 <div align="center">
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png">
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png">
-  <h3>🚀🚀🚀</h3>
 </div>
 
