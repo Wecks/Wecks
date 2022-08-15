@@ -1,4 +1,4 @@
-## Hi there !! 👀
+# Hi there !! 👀
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Wecks&color=orange">
@@ -9,8 +9,8 @@ Hi, I'm <strong>[Wecks](https://github.com/Wecks)</strong> or <strong>Alexis Lem
 Currently as an unofficial research engineer in Blockchain & IoT at CEA Paris-Saclay, I'm working on improving my skills mainly in the <strong>Javascript</strong> universe and in <strong>Solidity</strong>.
 This world needs help, we need help. That's why I think it's important to be <strong>united, transparent</strong> and <strong>sober</strong> in this crazy world...
 
-<div align="center">
-### 🌍🌡️🩸🩹🙏
+<div align = "center">
+  <h1>🌍🌡️🩸🩹🙏</h1>
 </br>
   <div>
     <a href="https://www.linkedin.com/in/alexislemairevolpe/">
@@ -23,7 +23,7 @@ This world needs help, we need help. That's why I think it's important to be <st
   </br>
    </div>
    
-   <div >
+   <div align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wecks" height=150px>
 <img src="https://github-readme-stats.vercel.app/api?username=Wecks" height=150px>
 </div>
@@ -53,6 +53,6 @@ This world needs help, we need help. That's why I think it's important to be <st
 <div>
   <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-  🚀
+  <h1>🚀🚀🚀</h1>
 </div>
 
