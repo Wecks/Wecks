@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=0nyr&style=flat-square&color=blue" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Wecks alt="views"/>
 </div>
 
 Hi, I'm <strong>[Wecks](https://github.com/Wecks)</strong> or <strong>Alexis Lemaire</strong> if you want my usual name !
@@ -42,7 +42,7 @@ This world needs help, we need help. That's why I think it's important to be <st
 
 <div>
 🚀
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)]
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]
 🌍🌡️🩸🩹
 </div>
