@@ -11,7 +11,7 @@ This world needs help, we need help. That's why I think it's important to be <st
 
 </br>
 <div align="center">
-  <div id="badges">
+  <div>
     <a href="https://www.linkedin.com/in/alexislemairevolpe/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -20,10 +20,13 @@ This world needs help, we need help. That's why I think it's important to be <st
     </a>
   </div>
   </br>
-      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wecks)](https://git.io/streak-stats)
-
+   </div>
+   
+   <div >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wecks">
+<img src="https://github-readme-stats.vercel.app/api?username=Wecks">
 </div>
+
 
 ## ⚙️ Languages and tools
 
@@ -45,10 +48,12 @@ This world needs help, we need help. That's why I think it's important to be <st
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wecks&layout=compact">
 <div/>
                                                                                                                                                 
-<div>
 ## 🚀
-</div> 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-<div> 
-## 🌍🌡️🩸🩹
-</div>
+
+<div align=center>
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+<div/>
+
+### 🌍🌡️🩸🩹
+
