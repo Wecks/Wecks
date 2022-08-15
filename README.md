@@ -1,4 +1,4 @@
-#### Hi there !! 👀
+## Hi there !! 👀
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Wecks&color=orange">
@@ -24,8 +24,11 @@ This world needs help, we need help. That's why I think it's important to be <st
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wecks)](https://git.io/streak-stats)
 
 </div>
-# ⚙️ Languages and tools
+
+## ⚙️ Languages and tools
+
 <div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
@@ -38,15 +41,23 @@ This world needs help, we need help. That's why I think it's important to be <st
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wecks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                                                 
 <div>
+  
 🚀
-</div>                                                                                                                                            
+  
+</div> 
+
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
 <div>
+  
 🌍🌡️🩸🩹
+
 </div>
