@@ -10,7 +10,7 @@ Currently as an unofficial research engineer in Blockchain & IoT at CEA Paris-Sa
 This world needs help, we need help. That's why I think it's important to be <strong>united, transparent</strong> and <strong>sober</strong> in this crazy world...
 
 <div align = "center">
-  <p class ="emoji">🌍🌡️🩸🩹🙏</p>
+  <p style="font-size:30px;">🌍🌡️🩸🩹🙏</p>
   <div>
     <a href="https://www.linkedin.com/in/alexislemairevolpe/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -49,12 +49,9 @@ This world needs help, we need help. That's why I think it's important to be <st
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wecks&layout=compact">
 </div>                                                                                                                                           
 <br>
-<div >
+<div style="font-size:30px;">
   <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
   <span class = "emoji">🚀🚀🚀</span>
 </div>
 
-.emoji {
-  font-size: 30px;
-}
