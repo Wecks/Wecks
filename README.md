@@ -10,7 +10,7 @@ Currently as an unofficial research engineer in Blockchain & IoT at CEA Paris-Sa
 This world needs help, we need help. That's why I think it's important to be <strong>united, transparent</strong> and <strong>sober</strong> in this crazy world...
 
 <div align = "center">
-  <h1>🌍🌡️🩸🩹🙏</h1>
+  <p font-size:20px>🌍🌡️🩸🩹🙏</p>
 </br>
   <div>
     <a href="https://www.linkedin.com/in/alexislemairevolpe/">
@@ -53,6 +53,6 @@ This world needs help, we need help. That's why I think it's important to be <st
 <div>
   <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-  <h1>🚀🚀🚀</h1>
+  <p font-size:20px>🚀🚀🚀</p>
 </div>
 
