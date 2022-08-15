@@ -23,7 +23,7 @@ This world needs help, we need help. That's why I think it's important to be <st
    </div>
    
    <div >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wecks">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wecks" height=100px width=500px>
 <img src="https://github-readme-stats.vercel.app/api?username=Wecks">
 </div>
 
@@ -44,13 +44,16 @@ This world needs help, we need help. That's why I think it's important to be <st
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
+
 <div align=center>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wecks&layout=compact">
+  
 <div/>
                                                                                                                                                 
 ## 🚀
 
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 <div/>
