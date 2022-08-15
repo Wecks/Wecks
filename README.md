@@ -51,7 +51,7 @@ This world needs help, we need help. That's why I think it's important to be <st
 <br>
 <div align="center">
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png">
   <h3>🚀🚀🚀</h3>
 </div>
 
