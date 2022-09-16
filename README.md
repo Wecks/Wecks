@@ -6,7 +6,7 @@
 
 Hi, I'm <strong>[Wecks](https://github.com/Wecks)</strong> or <strong>Alexis Lemaire</strong> if you want my usual name !
   
-Currently as an unofficial research engineer in Blockchain & IoT at CEA Paris-Saclay, I'm working on improving my skills mainly in the <strong>Javascript</strong> universe and in <strong>Solidity</strong>.
+Currently a research engineer in Blockchain & IoT at CEA Paris-Saclay, I'm working on improving my skills mainly in the <strong>Javascript</strong> and <strong>Solidity</strong> universes.
 <br>
 Moreover, as humans behing, I think it's important to be <strong>united, transparent</strong> and <strong>sober</strong> in this crazy world... Because this world needs help, because we need help. 
 
